@@ -5,6 +5,8 @@ public class Calculator {
 
     }
            //parameterized method
+           //parameter:string
+           //it accepts
         public void printNewMessage(String msg){
         system.debug(msg);
     }
